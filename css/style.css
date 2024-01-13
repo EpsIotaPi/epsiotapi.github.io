@@ -3356,6 +3356,14 @@ body {
     margin-top: 15px
 }
 
+#logo h3 {
+    color: #fff;
+    text-align: center;
+    font-weight: 600;
+    font-size: 18px;
+    margin-top: 15px
+}
+
 ul li {
     list-style-type: none;
     float: left;
